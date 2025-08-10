@@ -1,5 +1,6 @@
 # 💫 About Me:
- 🔭 I’m currently working on a fullstack MERN e-commerce platform<br> 🌱 I’m learning **advanced backend concepts** and deepening my fullstack development skills  <br> 🤝 I’m open to collaborate on projects involving fullstack, frontend, backend,MERN stack, Laravel, APIs, and scalable backend systems <br> 💬 Ask me about JavaScript, MongoDB, Express, React, Node.js, Laravel,Php, REST APIs, authentication and deployment <br> ⚡ Fun fact: I love building clean, maintainable code that powers seamless user experiences!<br>
+ 🔭 I’m currently working on a fullstack MERN e-commerce platform<br> 🌱 I’m learning **advanced backend concepts** and deepening my fullstack development skills  <br> 🎓 I’m a Computer Science graduate passionate about software development and problem-solving.<br>
+ 🤝 I’m open to collaborate on projects involving fullstack, frontend, backend,MERN stack, Laravel, APIs, and scalable backend systems <br> 💬 Ask me about JavaScript, MongoDB, Express, React, Node.js, Laravel,Php, REST APIs, authentication and deployment <br> ⚡ Fun fact: I love building clean, maintainable code that powers seamless user experiences!<br>
 
 
 ## 🌐 Socials:
